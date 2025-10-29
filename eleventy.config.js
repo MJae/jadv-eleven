@@ -1,3 +1,4 @@
+import fs from "node:fs";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
@@ -5,13 +6,21 @@ import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
+import { getGitFirstAddedTimeStamp, getGitLastUpdatedTimeStamp } from "./_config/git-timestamps.js";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
-	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
+	eleventyConfig.addPreprocessor("drafts", "*", async (data, content) => {
 		if (data.draft) {
 			data.title = `${data.title} (draft)`;
+		}
+		let inputPath = data.page.inputPath;
+		// not a virtual template
+		if(fs.existsSync(inputPath)) {
+			let created = await getGitFirstAddedTimeStamp(inputPath);
+			let lastmod = await getGitLastUpdatedTimeStamp(inputPath);
+			console.log( inputPath, { created, lastmod }, { created: new Date(parseInt(created.trim()) * 1000), lastmod: new Date(parseInt(lastmod.trim()) * 1000)} );
 		}
 
 		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {

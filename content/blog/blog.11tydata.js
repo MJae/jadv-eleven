@@ -2,6 +2,6 @@ export default {
 	tags: [
 		"posts"
 	],
-	"date": "git last modified",
+	"date": "git created",
 	"layout": "layouts/post.njk",
 };
