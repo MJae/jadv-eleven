@@ -4,6 +4,7 @@ description: Practical steps that you can take in order to stay safe online.
 date: 2024-08-12
 tags: Technology
 ---
+
 <img src="./blog-cybersecurity.jpg" alt="A representation of cybersecurity">
 
 October marks **Cybersecurity Awareness Month**, a reminder that protecting yourself online is more crucial than ever. Although this campaign began in the U.S. back in 2004, its message is universal: **no matter where you are, staying safe online should always be a priority.**

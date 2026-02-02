@@ -4,6 +4,7 @@ description: Ultimately, it's not about the platform, it's about the experience.
 date: 2024-08-02
 tags: Education
 ---
+
 <img src="./blog-moodle_canvas.png" alt="Logos of Moodle and Canvas">
 
 The COVID-19 pandemic accelerated many changes, and education was one of the sectors profoundly impacted. While some communities faced setbacks due to limited access to new technologies, the shift to online and distance learning occurred at a pace far beyond what institutions had anticipated.
