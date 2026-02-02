@@ -4,6 +4,9 @@ const eleventyNavigation = {
 	order: 4
 };
 ---
+title: "Crim Notes"
+---
+
 # Crim Notes
 
 Comprehensive lecture and review notes designed for criminology students and professionals.
