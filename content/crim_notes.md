@@ -4,7 +4,9 @@ const eleventyNavigation = {
 	order: 3
 };
 
-title: "Crim Notes"
+{
+	title: "Crim Notes"
+}
 ---
 
 # Crim Notes
