@@ -3,10 +3,6 @@ const eleventyNavigation = {
 	key: "Crim Notes",
 	order: 3
 }
-
-{
-	title: "Crim Notes"
-};
 ---
 
 # Crim Notes
