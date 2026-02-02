@@ -31,3 +31,7 @@ During my meeting with my supervisor, we concluded that it ultimately doesn’t 
 Whether we stick with Moodle or transition to Canvas, as long as our content remains excellent and our delivery outstanding, our virtual campus will continue to thrive.
 
 **The LMS is simply the tool; it’s what we put inside it that makes all the difference.**
+
+---
+
+*Originally posted on October 19, 2022 on [Substack](https://joanadvincula.substack.com/p/moodle-vs-canvas-which-is-better?ref=joanadvincula.xyz).*
