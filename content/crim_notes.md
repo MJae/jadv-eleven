@@ -8,4 +8,4 @@ const eleventyNavigation = {
 
 Comprehensive lecture and review notes designed for criminology students and professionals.
 
-![Main cover image for Crim Notes page](images/crim_notes-cover-main.jpg)
+![Main cover image for Crim Notes page](images/crim_notes-cover-main.png)
