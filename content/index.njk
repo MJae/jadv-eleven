@@ -6,6 +6,8 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 10;
 ---
+<img src="./images/jadvincula_xyz-hero.jpg" alt="Main hero image, abstract">
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
