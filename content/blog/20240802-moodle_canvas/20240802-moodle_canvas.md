@@ -1,7 +1,7 @@
 ---
 title: Moodle vs. Canvas: Is It Time to Switch Your LMS?
 description: Ultimately, it's not about the platform, it's about the experience.
-date: 2024 Aug 2
+date: 2024-08-02
 tags: Education
 ---
 <img src="./blog-moodle_canvas.png" alt="Logos of Moodle and Canvas">
