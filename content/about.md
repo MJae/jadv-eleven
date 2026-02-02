@@ -6,6 +6,8 @@ const eleventyNavigation = {
 ---
 # About Joan Advincula
 
+---
+
 I am a licensed criminologist with over eight years of professional experience in academia and technical support, specializing in criminology and information technology. My journey has taken me through various educational and technical roles, where I’ve had the opportunity to contribute to the growth of students and institutions both locally and internationally.
 
 ## Expertise in Criminology and Education
