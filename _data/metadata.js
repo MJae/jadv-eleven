@@ -1,5 +1,5 @@
 export default {
-	title: "The Criminology Compass",
+	title: "Joan Advincula",
 	url: "http://www.joanadvincula.xyz/",
 	language: "en",
 	description: "Notes and blog posts about criminology.",
