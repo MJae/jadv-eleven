@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
 	key: "Crim Notes",
-	order: 3
+	order: 2
 }
 ---
 
