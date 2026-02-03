@@ -37,4 +37,6 @@ const eleventyNavigation = {
 **Laboratory Activities**
 
 **Supplementary Videos**
-- Fundamentals of Ballistics, [https://www.youtube.com/watch?v=CgXz-njLLV4](https://www.youtube.com/watch?v=CgXz-njLLV4)
+- Fundamentals of Ballistics, [https://youtu.be/CgXz-njLLV4](https://youtu.be/CgXz-njLLV4)
+- Firearm Science - Internal Ballistics, [https://youtu.be/cW-SMKwdJrk](https://youtu.be/cW-SMKwdJrk)
+- Firearm Science - Terminal Ballistics, [https://youtu.be/LWFaJXlFBCI](https://youtu.be/LWFaJXlFBCI)
