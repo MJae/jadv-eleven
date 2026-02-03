@@ -5,11 +5,11 @@ date: 2024-08-23
 tags: Education
 ---
 
-<img src="./blog-overwhelmed.jpg" alt="A stressed-out young man">
-
 Starting a new academic year can be exciting, but it can also bring a sense of pressure.
 
 However, with the right strategies, you can stay on top of your workload and maintain a healthy mindset throughout the semester.
+
+<img src="./blog-overwhelmed.jpg" alt="A stressed-out young man">
 
 ## Deep Breathing for Instant Calm
 

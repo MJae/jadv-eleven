@@ -5,11 +5,11 @@ date: 2024-08-12
 tags: Technology
 ---
 
-<img src="./blog-cybersecurity.jpg" alt="A representation of cybersecurity">
-
 October marks **Cybersecurity Awareness Month**, a reminder that protecting yourself online is more crucial than ever. Although this campaign began in the U.S. back in 2004, its message is universal: **no matter where you are, staying safe online should always be a priority.**
 
 In the spirit of this annual event, I’d like to share some practical tips I’ve gathered from financial institutions, cybersecurity experts, and various podcasts I follow. These suggestions will help you safeguard your digital life and keep potential cyberthreats at bay.
+
+<img src="./blog-cybersecurity.jpg" alt="A representation of cybersecurity">
 
 ## 1. Create Strong, Unique Passwords
 

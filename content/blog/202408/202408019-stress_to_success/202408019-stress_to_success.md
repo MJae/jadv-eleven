@@ -5,13 +5,13 @@ date: 2024-08-19
 tags: Education
 ---
 
-<img src="./blog-stress_to_success.jpg" alt="A stressed-out young woman">
-
 Excelling in board exams, especially high-stakes ones like the Criminologist Licensure Exam (CLE), isn’t just about how much you study.
 
 The psychological hurdles you’ll face along the way can be just as challenging as the exam content itself.
 
 To succeed, it’s important to address these mental roadblocks during both your preparation period and exam day.
+
+<img src="./blog-stress_to_success.jpg" alt="A stressed-out young woman">
 
 Here’s how you can tackle them head-on.
 
