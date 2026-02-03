@@ -6,6 +6,19 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
 
+// `require` the package at the top of the file with all the others
+const embedYouTube = require("eleventy-plugin-youtube-embed");
+
+module.exports = function(eleventyConfig) {
+
+  // There could be quite a lot of surrounding code here...
+
+  eleventyConfig.addPlugin(embedYouTube);
+
+  // There could be quite a lot of surrounding code here...
+
+};
+
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
