@@ -11,7 +11,7 @@ const eleventyNavigation = {
 
 > This course intends to provide students fundamental knowledge regarding branches of ballistics, classification of firearms, classes of bullet and cartridge cases, source and origin of gun powder, and primer. Provide basic knowledge in differentiating class and individual characteristics found in firearms, bullet and cartridge cases. Identify appropriate agencies that can handle issues related for firearm examination and apply knowledge in criminal law, procedure and evidence in qualifying a case related to firearm investigation and in court presentation.
 
-**Chapter 1: Overview of Forensic Ballistics**
+[**Chapter 1: Overview of Forensic Ballistics**](frsc-forensic_ballistics-ch_1.md)
 - History of Forensic Ballistics
 - Relevant Personalities
 - Branches of Ballistics

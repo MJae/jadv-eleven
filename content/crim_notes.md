@@ -47,7 +47,7 @@ This is a collection of organized, detailed lecture notes tailored for criminolo
 
 ### Forensic Ballistics
 
-![Cover image for Forensic Ballistics course](images/crim_notes-cover-for_sci-ballistics.webp)
+[![Cover image for Forensic Ballistics course](images/crim_notes-cover-for_sci-ballistics.webp)](crim_notes/frsc-forensic_ballistics/frsc-forensic_ballistics.md)
 
 ### Lie Detection Techniques
 
