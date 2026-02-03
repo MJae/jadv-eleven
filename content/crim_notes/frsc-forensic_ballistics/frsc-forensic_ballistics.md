@@ -16,7 +16,7 @@ const eleventyNavigation = {
 - Relevant Personalities
 - Branches of Ballistics
 
-**Chapter 2: Firearms**
+[**Chapter 2: Firearms**](frsc-forensic_ballistics-ch_2.md)
 - Classification of Firearms
 - Class Characteristics and Individual Characteristics of Firearms
 - Uniqueness of Firearm Markings and Barrel Markings
@@ -40,3 +40,4 @@ const eleventyNavigation = {
 - Fundamentals of Ballistics, [https://youtu.be/CgXz-njLLV4](https://youtu.be/CgXz-njLLV4)
 - Firearm Science - Internal Ballistics, [https://youtu.be/cW-SMKwdJrk](https://youtu.be/cW-SMKwdJrk)
 - Firearm Science - Terminal Ballistics, [https://youtu.be/LWFaJXlFBCI](https://youtu.be/LWFaJXlFBCI)
+- Evolution of Weaponry, [https://youtu.be/VEv7M5gzLWk](https://youtu.be/VEv7M5gzLWk)
