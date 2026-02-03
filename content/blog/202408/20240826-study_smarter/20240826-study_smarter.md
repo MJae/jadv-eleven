@@ -5,11 +5,11 @@ date: 2024-08-26
 tags: Education
 ---
 
+<img src="./blog-study_smarter.jpg" alt="A group of young people brainstorming">
+
 The Criminologist Licensure Exam (CLE) in the Philippines is a comprehensive test that requires deep knowledge and understanding across various fields of criminology.
 
 To succeed, you need to develop effective study techniques that enhance retention and recall — essential skills for such a challenging exam.
-
-<img src="./blog-study_smarter.jpg" alt="A group of young people brainstorming">
 
 Here are some proven strategies to help you boost your retention and recall, ensuring you're well-prepared for the CLE.
 

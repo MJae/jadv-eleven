@@ -5,11 +5,11 @@ date: 2024-08-02
 tags: Education
 ---
 
+<img src="./blog-moodle_canvas.png" alt="Logos of Moodle and Canvas">
+
 The COVID-19 pandemic accelerated many changes, and education was one of the sectors profoundly impacted. While some communities faced setbacks due to limited access to new technologies, the shift to online and distance learning occurred at a pace far beyond what institutions had anticipated.
 
 A couple of weeks ago, I had a meeting with my supervisor about our processes, and the topic of Learning Management Systems (LMS) came up. As a Moodle Technical Support Officer at a university, it's no surprise that we use Moodle as our LMS. My supervisor is our Moodle Administrator, and during the discussion, the suggestion was made to reevaluate our LMS. Specifically, there was talk of possibly switching to Canvas.
-
-<img src="./blog-moodle_canvas.png" alt="Logos of Moodle and Canvas">
 
 ## Moodle vs. Canvas: A Common Dilemma
 

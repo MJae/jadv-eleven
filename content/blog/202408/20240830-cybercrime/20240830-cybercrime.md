@@ -5,6 +5,8 @@ date: 2024-08-30
 tags: Technology
 ---
 
+<img src="./blog-cybercrime.jpg" alt="A dark stylized illustration of the world map depicting cyber threats.">
+
 Cybercrime is evolving at a staggering rate, and no one is immune.
 
 From multinational corporations to individuals, the digital world is a playground for criminals.
@@ -12,8 +14,6 @@ From multinational corporations to individuals, the digital world is a playgroun
 But as their tactics get more advanced, our defenses need to get smarter.
 
 In this guide, we’ll dive into the most dangerous cyber threats and simple steps you can take to protect yourself.
-
-<img src="./blog-cybercrime.jpg" alt="A dark stylized illustration of the world map depicting cyber threats.">
 
 The digital underworld may seem overwhelming, but by understanding its methods, you can stay one step ahead.
 
