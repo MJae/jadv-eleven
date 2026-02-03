@@ -65,12 +65,14 @@ Make time for regular exercise, nutritious meals, and adequate sleep—especiall
 
 Self-care ensures that you’re mentally and physically prepared for the demands of both academics and social life.
 
-7. Reflect and Adapt: Learn from Your Time Management Efforts
+## 7. Reflect and Adapt: Learn from Your Time Management Efforts
 Reflection allows you to identify what’s working and what could be improved in your time management approach.
 
 At the end of each week, review your schedule and make adjustments as needed. For instance, if you find that research responsibilities are taking more time than anticipated, rearrange other tasks to maintain balance. This will help you refine a time management strategy that works best for you.
 
 Reflection and adaptation help you build a time management system that supports both academic success and a fulfilling college experience.
+
+---
 
 Balancing criminology studies with personal life and social activities is possible with intentional planning and consistency.
 
