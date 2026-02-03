@@ -1,5 +1,5 @@
 ---
-title: From Stress to Success\: How to Handle Psychological Pressure During Board Exams
+title: "From Stress to Success: How to Handle Psychological Pressure During Board Exams"
 description: Steps you can take to be at your best during board exams.
 date: 2024-08-19
 tags: Education
