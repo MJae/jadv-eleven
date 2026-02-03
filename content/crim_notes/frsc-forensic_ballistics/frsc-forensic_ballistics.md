@@ -41,3 +41,7 @@ const eleventyNavigation = {
 - Firearm Science - Internal Ballistics, [https://youtu.be/cW-SMKwdJrk](https://youtu.be/cW-SMKwdJrk)
 - Firearm Science - Terminal Ballistics, [https://youtu.be/LWFaJXlFBCI](https://youtu.be/LWFaJXlFBCI)
 - Evolution of Weaponry, [https://youtu.be/VEv7M5gzLWk](https://youtu.be/VEv7M5gzLWk)
+- Big Idea: Gunpowder, [https://youtu.be/w4qySC_DpWE](https://youtu.be/w4qySC_DpWE)
+- The deadly irony of gunpowder - Eric Rosado, [https://youtu.be/mqHVRgCkCDE](https://youtu.be/mqHVRgCkCDE)
+- Firearm Basics: Types of Bullets, [https://youtu.be/aE_w02SdjqI](https://youtu.be/aE_w02SdjqI)
+- Firearm Basics: Cartridge Case Material, [https://youtu.be/iPhei-JvKus](https://youtu.be/iPhei-JvKus)
