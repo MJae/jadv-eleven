@@ -58,4 +58,5 @@ This is a collection of organized, detailed lecture notes tailored for criminolo
 ### Character Formation 2: Leadership, Decision-Making, Management, and Administration
 
 ![Cover image for Character Formation 2: Leadership, Decision-Making, Management, and Administration course](images/crim_notes-cover-lead-char_for-2.webp)
+
 [Updated to the latest CHED and PRC TOS]
