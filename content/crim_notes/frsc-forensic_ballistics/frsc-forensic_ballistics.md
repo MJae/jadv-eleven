@@ -35,3 +35,6 @@ const eleventyNavigation = {
 **Chapter 5: Court Presentation of Forensic Ballistics Evidence**
 
 **Laboratory Activities**
+
+**Supplementary Videos**
+- Fundamentals of Ballistics, [https://www.youtube.com/watch?v=CgXz-njLLV4](https://www.youtube.com/watch?v=CgXz-njLLV4)
