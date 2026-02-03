@@ -12,3 +12,5 @@ const eleventyNavigation = {
 **Ballistics** is *the applied science concerned with the motion of projectiles* – especially those projectiles that are used in ranged weaponry. In this course, we are especially concerned with the applications of this science towards the law. Specifically, as the title of the course suggests, we will be focusing on ***Forensic Ballistics*** in this course.
 
 https://youtu.be/CgXz-njLLV4
+
+https://www.youtube.com/watch?v=CgXz-njLLV4
