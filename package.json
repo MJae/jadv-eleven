@@ -45,7 +45,7 @@
 	"dependencies": {
 		"@zachleat/heading-anchors": "^1.0.5",
 		"dotenv": "^17.2.3",
-		"eleventy-plugin-ghost": "^2.0.0",
+		"eleventy-plugin-youtube-embed": "^1.13.1",
 		"ghost-to-md": "^1.1.0"
 	},
 	"main": "eleventy.config.js",
