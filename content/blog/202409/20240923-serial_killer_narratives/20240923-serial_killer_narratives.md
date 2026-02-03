@@ -98,8 +98,6 @@ Through responsible engagement with the subject, we can learn valuable lessons a
 
 ## References
 
-Bond, M. (2016, March 31). Why are we eternally fascinated by serial killers? BBC Future. [https://www.bbc.com/future/article/20160331-why-are-we-eternally-fascinated-by-serial-killers](https://www.bbc.com/future/article/20160331-why-are-we-eternally-fascinated-by-serial-killers)
-
-Hankinson, A. (2017, November 20). This is why are we all so obsessed with serial killers. ShortList. [https://www.shortlist.com/news/serial-killers-obsession-posterboys-charles-manson-psychology](https://www.shortlist.com/news/serial-killers-obsession-posterboys-charles-manson-psychology)
-
-Magdalen, C. (2023). The psychology of serial killers: Unraveling the minds of notorious criminals. Addiction & Criminology, 6(4), 163. [https://www.alliedacademies.org/articles/the-psychology-of-serial-killers-unraveling-the-minds-of-notorious-criminals-26136.html](https://www.alliedacademies.org/articles/the-psychology-of-serial-killers-unraveling-the-minds-of-notorious-criminals-26136.html)
+- Bond, M. (2016, March 31). Why are we eternally fascinated by serial killers? BBC Future. [https://www.bbc.com/future/article/20160331-why-are-we-eternally-fascinated-by-serial-killers](https://www.bbc.com/future/article/20160331-why-are-we-eternally-fascinated-by-serial-killers)
+- Hankinson, A. (2017, November 20). This is why are we all so obsessed with serial killers. ShortList. [https://www.shortlist.com/news/serial-killers-obsession-posterboys-charles-manson-psychology](https://www.shortlist.com/news/serial-killers-obsession-posterboys-charles-manson-psychology)
+- Magdalen, C. (2023). The psychology of serial killers: Unraveling the minds of notorious criminals. Addiction & Criminology, 6(4), 163. [https://www.alliedacademies.org/articles/the-psychology-of-serial-killers-unraveling-the-minds-of-notorious-criminals-26136.html](https://www.alliedacademies.org/articles/the-psychology-of-serial-killers-unraveling-the-minds-of-notorious-criminals-26136.html)
