@@ -12,7 +12,7 @@ const eleventyNavigation = {
 
 > This course covers the understanding of personal values, characteristics, and goals including the normative foundation of leading. It also includes discussions on a wide array of leadership and management approaches to help students refine their leadership and management styles. Students will also understand the frames of judgement and skills required to affect positive change in a broad range of settings and to help transform cultures, organizations, and institutions. They will learn to do this through effective leading and management analysis, and decision-making done in a self-aware manner that will enable them to think and act strategically.
 
-**Chapter 1: Leadership and Management**
+[**Chapter 1: Leadership and Management**](chfr-2-ch_1.md)
 - Introduction to Leadership and Management
 - Leadership vs Management
 - Principles of Leadership
