@@ -57,7 +57,9 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 60em;
+	max-width: 40em;
+	/* max-width should be 60em, but the content should only be 40em */
+	/* probably need a content wrapper to make this happen */
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
