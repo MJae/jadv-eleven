@@ -1,7 +1,8 @@
 ---js
 const eleventyNavigation = {
-	key: "Forensic Ballistics: Chapter 2, Firearms",
-	parent: "Forensic Ballistics"
+	key: "Firearms",
+	parent: "Forensic Ballistics",
+	title: "Forensic Ballistics: Chapter 2, Firearms"
 }
 ---
 

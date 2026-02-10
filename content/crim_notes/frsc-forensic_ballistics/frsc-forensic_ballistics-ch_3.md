@@ -1,7 +1,8 @@
 ---js
 const eleventyNavigation = {
-	key: "Forensic Ballistics: Chapter 3, Ammunition",
-	parent: "Forensic Ballistics"
+	key: "Ammunition",
+	parent: "Forensic Ballistics",
+	title: "Forensic Ballistics: Chapter 3, Ammunition"
 }
 ---
 
@@ -152,7 +153,7 @@ A **primer** is the assembly which ignites the propellant. It contains a highly 
 
 **Parts of the Primer** 
 
-<img src="frsc-ballistics-ch_3-img_11-primer_parts.webp" alt="different gauges of shotgun" width="300" />
+<img src="frsc-ballistics-ch_3-img_11-primer_parts.webp" alt="parts of the primer" width="600" />
 
 **anvil** provides solid support and absorbs the blow of the firing pin causing friction that would initiate ignition
 
