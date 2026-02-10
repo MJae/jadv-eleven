@@ -32,7 +32,7 @@ const eleventyNavigation = {
 - Crime Scene Processing for Firearms, Bullets, Ammunition, and Firearm Accessories in the Crime Scene
 - Marking the Evidence
 
-[**Chapter 5: Court Presentation of Forensic Ballistics Evidence**]((frsc-forensic_ballistics-ch_5.md))
+[**Chapter 5: Court Presentation of Forensic Ballistics Evidence**](frsc-forensic_ballistics-ch_5.md)
 
 **Laboratory Activities**
 
