@@ -29,20 +29,21 @@ Cartridges and ammunitions continued to evolved from then until the form that we
 
 ## Basic Parts
 
-In general, the basic parts of an ammunition are the case, primer, powder, and projectile. Depending on the type of ammunition, additional components may be found. For example, shotgun shells have a wad.
+In general, the basic parts of an ammunition are the **case**, **primer**, **powder**, and **projectile**. Depending on the type of ammunition, additional components may be found. For example, shotgun shells have a **wad**.
 
+<img src="frsc-ballistics-ch_3-img_01-ammo_parts.webp" alt="basic parts of ammunition" width="300" />
 
-case: the container that holds everything together
+**case**: the container that holds everything together
 
-gunpowder: a chemical mixture whose purpose is to propel projectiles through the expanding gases produced during the chemical reaction triggered upon ignition
+**gunpowder**: a chemical mixture whose purpose is to propel projectiles through the expanding gases produced during the chemical reaction triggered upon ignition
 
-primer: a chemical mixture that ignites the gunpowder
+**primer**: a chemical mixture that ignites the gunpowder
 
-projectile: the object/s expelled from the barrel of the firearm
+**projectile**: the object/s expelled from the barrel of the firearm
 
-wad: an extra container, usually made of paper or plastic, that separates the gunpowder from the slug or shots
+**wad**: an extra container, usually made of paper or plastic, that separates the gunpowder from the slug or shots
 
-Image Source: https://ke-courses-production.s3.amazonaws.com/asset_files/production/655/attachments/original/ammo_basic_components.jpg?1497618021
+Image Source: [https://ke-courses-production.s3.amazonaws.com/asset_files/production/655/attachments/original/ammo_basic_components.jpg?1497618021](https://ke-courses-production.s3.amazonaws.com/asset_files/production/655/attachments/original/ammo_basic_components.jpg?1497618021)
 
 General Types of Ammunition
 ammunition, drill typedrill: does not contain gunpowder

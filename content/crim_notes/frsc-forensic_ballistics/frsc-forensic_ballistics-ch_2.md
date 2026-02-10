@@ -68,7 +68,7 @@ Firearms that have no rifling (lands and groves) inside their barrels
 
 Winchester M1897 shotgun
 
-By Asams10 at English Wikipedia – Transferred from en.wikipedia to Commons by Amendola90, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9877260
+<sub>By Asams10 at English Wikipedia – Transferred from en.wikipedia to Commons by Amendola90, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=9877260](https://commons.wikimedia.org/w/index.php?curid=9877260)</sub>
 
 **Rifled-Bore Firearms**
 Firearms that have rifling in their barrels
@@ -77,7 +77,7 @@ Firearms that have rifling in their barrels
 
 MP5K machine pistol
 
-By Westdog – take by Westdog, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4131996
+<sub>By Westdog – take by Westdog, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=4131996](https://commons.wikimedia.org/w/index.php?curid=4131996)</sub>
 
 ### Main Types of Firearms (or Classifications of Firearms According to the Caliber of the Projectile Propelled)
 
@@ -89,8 +89,7 @@ Propel projectiles with a diameter greater than 1″, e.g., cannons, mortars, an
 
 German 7.5 cm Minenwerfer mortar
 
-By Max Smith – Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=788024
-
+<sub>By Max Smith – Own work, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=788024](https://commons.wikimedia.org/w/index.php?curid=788024)</sub>
 
 **Small Arms**
 
@@ -100,7 +99,7 @@ Propel projectiles that are 1″ or less in diameter and can be handled, moved, 
 
 M1911 pistol
 
-By Lynette “Squeaky” Fromme’s pistol, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20698716
+<sub>By Lynette “Squeaky” Fromme’s pistol, Public Domain, [https://commons.wikimedia.org/w/index.php?curid=20698716](https://commons.wikimedia.org/w/index.php?curid=20698716)</sub>
 
 ### Types of Small Arms
 
