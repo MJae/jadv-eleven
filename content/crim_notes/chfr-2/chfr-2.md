@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
 	key: "Character Formation 2",
-	parent: "Crim Notes"
+	parent: "Crim Notes",
 	title: "Character Formation 2: Leadership, Decision-Making, Management, and Administration"
 }
 ---
