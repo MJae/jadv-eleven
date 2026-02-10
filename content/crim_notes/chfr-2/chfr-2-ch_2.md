@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
 	key: "Administration",
-	parent: "Character Formation 2"
+	parent: "Character Formation 2",
 	title: "Character Formation 2: Chapter 2, Administration"
 }
 ---
