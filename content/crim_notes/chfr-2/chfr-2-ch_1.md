@@ -242,7 +242,6 @@ In this style of leadership, the main job of the leader is to assign tasks. Whil
 
 These leaders look almost exclusively at the big picture. They inspire their members to aspire towards lofty goals, but they do not look at the smaller details of the organization. They provide goals, but not direction.
 
----
 
 <sub>**Note**: Do not be confused if any of the above appeared in your research as **Management Styles**. Leadership and management share similar characteristics, so these styles apply to both.</sub>
 
