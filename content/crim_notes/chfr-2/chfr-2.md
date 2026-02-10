@@ -42,6 +42,10 @@ const eleventyNavigation = {
 - Individual vs Group Decision-Making
 - Police Decision-Making
 
+**Supplemental Videos**
+- Khan Academy, *How to write a SMART goal*, [https://youtu.be/U4IU-y9-J8Q](https://youtu.be/U4IU-y9-J8Q)
+- Simplilearn, *What Are The Qualities Of A Good Leader ?* | *What Is Leadership?* | *Leadership Skills* | *Simplilearn*, [https://youtu.be/uCw5byNWnoo](https://youtu.be/uCw5byNWnoo)
+
 ---
 
 **References**
