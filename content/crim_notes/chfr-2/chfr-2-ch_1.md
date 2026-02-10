@@ -158,7 +158,7 @@ This theory sits in opposition with the previous theory. It suggests that leader
 
 ## Leadership Styles
 
-***Leadership styles*** are the different approaches or techniques that leaders use to guide their organizations or teams.[^1] The following are some of them:
+***Leadership styles*** are the different approaches or techniques that leaders use to guide their organizations or teams. The following are some of them:
 
 ### Authoritarian Leadership (Autocratic Leadership)
 
@@ -244,7 +244,7 @@ These leaders look almost exclusively at the big picture. They inspire their mem
 
 ---
 
-[^1]: **Note**: Do not be confused if any of the above appeared in your research as **Management Styles**. Leadership and management share similar characteristics, so these styles apply to both.
+<sub>**Note**: Do not be confused if any of the above appeared in your research as **Management Styles**. Leadership and management share similar characteristics, so these styles apply to both.</sub>
 
 ## Efficient Management
 
