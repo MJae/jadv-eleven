@@ -21,7 +21,7 @@ const eleventyNavigation = {
 - Class Characteristics and Individual Characteristics of Firearms
 - Uniqueness of Firearm Markings and Barrel Markings
 
-**Chapter 3: Ammunition**
+[**Chapter 3: Ammunition**](frsc-forensic_ballistics-ch_3.md)
 - Basic Parts of Ammunition
 - Primers
 - Gunpowders
