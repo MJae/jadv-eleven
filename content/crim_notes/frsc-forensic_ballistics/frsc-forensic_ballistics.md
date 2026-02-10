@@ -2,6 +2,7 @@
 const eleventyNavigation = {
 	key: "Forensic Ballistics",
 	parent: "Crim Notes"
+	title: "Forensic Ballistics",
 }
 ---
 
