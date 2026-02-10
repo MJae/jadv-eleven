@@ -27,7 +27,7 @@ const eleventyNavigation = {
 - Gunpowders
 - Bullets and Cartridge Cases
 
-**Chapter 4: The Forensic Ballistics Laboratory**
+[**Chapter 4: The Forensic Ballistics Laboratory**]((frsc-forensic_ballistics-ch_3.md))
 - Laboratory Equipment Used in the Examination of Firearms, Cartridges, Fired Bullets, and Allied Matters
 - Crime Scene Processing for Firearms, Bullets, Ammunition, and Firearm Accessories in the Crime Scene
 - Marking the Evidence
