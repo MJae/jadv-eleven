@@ -22,7 +22,7 @@ const eleventyNavigation = {
 - Efficient Management
 - Qualities of Leaders and Managers
 
-**Chapter 2: Administration**
+[**Chapter 2: Administration**](chfr-2-ch_2.md)
 - Introduction to Administration and Police Administration
 - Principles of Administration
 - Theories of Administration
