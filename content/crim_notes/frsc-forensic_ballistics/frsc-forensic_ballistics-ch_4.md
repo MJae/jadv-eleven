@@ -105,3 +105,9 @@ The following are the methods for preserving ballistics evidence:
 2. These should be wrapped separately to avoid contact with each other, which may result in unnecessary markings.
 3. The container should also be properly labeled with a tag.
 4. Evidence firearm should be properly placed in the container box or cartoon so that it is free from modification and contamination of latent print.
+
+---
+
+← [Chapter 3: Ammunition](frsc-forensic_ballistics-ch_3.md)
+
+[Chapter 5: Court Presentation of Forensic Ballistics Evidence](frsc-forensic_ballistics-ch_5.md) →

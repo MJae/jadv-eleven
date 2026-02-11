@@ -243,3 +243,9 @@ As previously discussed, the cartridge case is the container of all the other pa
 The **cannelure** is the cylindrical groove on the outer surface of the cartridge designed to secure the shell to the chamber, as well as prevent the bullet from being pushed down to the powder charge. In some instances, it can be utilized for identification.
 
 <sub>By Vic2015 – Own work, CC BY-SA 4.0, [https://commons.wikimedia.org/w/index.php?curid=45649859](https://commons.wikimedia.org/w/index.php?curid=45649859)</sub>
+
+---
+
+← [Chapter 2: Firearms](frsc-forensic_ballistics-ch_2.md)
+
+[Chapter 4: The Forensic Ballistics Laboratory](frsc-forensic_ballistics-ch_4.md) →

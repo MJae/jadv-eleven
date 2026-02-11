@@ -114,3 +114,9 @@ By implementing the tracing activities, investigators can make use of various to
 2. In case where a loose or unregistered firearm is no longer needed in court ass evidence the same shall be turned over to the FIREARMS AND EXPLOSIVE Division in accordance with the PNP Circular Number 05 and related PNP issuances which prescribes procedures on the disposition of captured confiscated and surrendered firearms.
 
 3. In case where the licensee ceases to become qualified by the virtue of his death, the firearm should not be release to anybody neither to his nearest kin unless qualified as determined by the Chief, Philippine National Police otherwise the firearm shall be forwarded to the custody of the FED, CSG for safe keeping and disposition.
+
+---
+
+← [Chapter 4: The Forensic Ballistics Laboratory](frsc-forensic_ballistics-ch_4.md)
+
+[Course Homepage](frsc-forensic_ballistics.md) →

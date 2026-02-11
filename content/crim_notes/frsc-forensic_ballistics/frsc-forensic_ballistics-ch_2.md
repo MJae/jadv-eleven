@@ -229,3 +229,9 @@ As discussed in the previous lesson, firearms have individual characteristics th
 3. Determine the conspicuous characteristics appearing on the bullet or any markings appearing therein.
 4. Markings appearing on test bullet #1, but does not appear on succeeding test bullets should be disregarded. Such markings are called “accidental markings” and come from foreign substances.
 5. If a bullet is undersized or the bore of the firearm is badly worn out, there will be a cylindrical passage of the expanding gas and it will appear as a dark or black mark in the picture.
+
+---
+
+← [Chapter 1: Overview of Forensic Ballistics](frsc-forensic_ballistics-ch_1.md)
+
+[Chapter 3: Ammunition](frsc-forensic_ballistics-ch_3.md) →

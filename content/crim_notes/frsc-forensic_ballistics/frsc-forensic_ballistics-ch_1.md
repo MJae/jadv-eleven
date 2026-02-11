@@ -275,3 +275,9 @@ This refers to the ***application of ballistics*** to the law. The word “foren
 - field investigation
 - technical examination of exhibits
 - legal proceedings
+
+---
+
+← [Course Homepage](frsc-forensic_ballistics.md)
+
+[Chapter 2: Firearms](frsc-forensic_ballistics-ch_2.md) →
