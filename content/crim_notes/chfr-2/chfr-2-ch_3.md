@@ -184,10 +184,10 @@ Group decision-making is a participatory process where group members share their
 | less costly                    | costly in terms of time and money |
 | based on limited information gathered by a single decision-maker | based on extensive information collected by members of the group |
 | generally taken in situations of emergency | can be taken when there is sufficient time to make decisions |
-| do not involve moral commitment on the part of members to accept and implement them | easier to implement as group members feel committed to them |
-| do not affect morale or job satisfaction of employees | positively affect morale and job satisfaction of employees |
-| introduce one-man control      | introduce self-control          |
-| do not promote interaction amongst superiors and subordinates | promote superior-subordinate interaction and healthy relationships amongst them |
+| does not involve moral commitment on the part of members to accept and implement them | easier to implement as group members feel committed to them |
+| does not affect morale or job satisfaction of employees | positively affect morale and job satisfaction of employees |
+| introduces one-man control      | introduces self-control          |
+| does not promote interaction amongst superiors and subordinates | promotes superior-subordinate interaction and healthy relationships amongst them |
 | based on clear policy guidelines | taken when the problem requires creativity and expert knowledge of a group |
 | Though decisions are based on individual thinking, they are high-quality if the individual has expertise and experience in making such decisions.	| It usually results in high-quality decisions as they are based on extensive brainstorming. They provide the benefit of synergy. |
 
