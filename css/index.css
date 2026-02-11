@@ -167,7 +167,7 @@ table {
 }
 table td,
 table th {
-	padding-right: 1em;
+	padding: 8em;
 	border: 1px solid black;
 }
 
