@@ -256,3 +256,9 @@ Making operational decisions is a complicated process. It requires leadership th
 - Remember that every decision you make has a person attached to it.
 - Do not judge the result – judge the path to the result.
 - Remember the 24-hour rule.
+
+---
+
+← [Chapter 2: Administration](chfr-2-ch_2.md)
+
+[Course Homepage](chfr-2.md) →

@@ -60,3 +60,7 @@ const eleventyNavigation = {
 * Literal, B. B., Salamanca, B. H., Santos, M. I., & Tabajonda, R. R. (2022). *Character Formation 2: Leadership, Decision-Making, Management, and Administration* (1st ed.). ChapterHouse Publishing Incorporated.
 
 * Student Reports
+
+---
+
+[Chapter 1: Leadership and Management](chfr-2-ch_1.md) →

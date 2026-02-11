@@ -329,3 +329,9 @@ The following characteristics are further qualities that other sources consider 
 **Decisiveness** Good managers are able to make sound and timely decisions and are able to stick with them.
 
 **Patience** A good manager knows that the development of outstanding skills and capabilities take time to develop. They must allow themselves, as well as their team members, this time and not be hasty.
+
+---
+
+← [Course Homepage](chfr-2.md)
+
+[Chapter 2: Administration](chfr-2-ch_2.md) →

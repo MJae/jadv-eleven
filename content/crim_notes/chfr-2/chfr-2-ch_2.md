@@ -350,3 +350,9 @@ If implemented, the manager at the highest level of the organization has the mos
 - **Lower levels of management may feel isolated** Top-level management is only accessible through a linear chain of command.
 - **Potential for miscommunication** If even one person in the hierarchy does not communicate information accurately, everyone who receives it after them will suffer.
 - **No diagonal communication** Diagonal communication refers to the connection between two people of different ranks from different units of the organization. Scalar chain does not allow this type of communication due to the hierarchical setup of the lines of communication.
+
+---
+
+← [Chapter 1: Leadership and Management](chfr-2-ch_1.md)
+
+[Chapter 3: Decision-Making](chfr-2-ch_3.md) →
