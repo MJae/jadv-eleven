@@ -33,7 +33,7 @@ const eleventyNavigation = {
 - Unity of Command
 - Scalar Chain
 
-**Chapter 3: Decision-Making**
+[**Chapter 3: Decision-Making**](chfr-2-ch_3.md)
 - Introduction to Decision-Making
 - Characteristics of Decision-Making
 - Principles of Decision-Making
@@ -42,9 +42,13 @@ const eleventyNavigation = {
 - Individual vs Group Decision-Making
 - Police Decision-Making
 
-**Supplemental Videos**
+**Videos**
 - Khan Academy, *How to write a SMART goal*, [https://youtu.be/U4IU-y9-J8Q](https://youtu.be/U4IU-y9-J8Q)
 - Simplilearn, *What Are The Qualities Of A Good Leader ?* | *What Is Leadership?* | *Leadership Skills* | *Simplilearn*, [https://youtu.be/uCw5byNWnoo](https://youtu.be/uCw5byNWnoo)
+- PersonalDefenseNet, *Intuition vs. Instinct | Personal Defense Network*, [https://youtu.be/3-_6RTcUzL4](https://youtu.be/3-_6RTcUzL4)
+- TEDx Talks, *Before You Decide: 3 Steps To Better Decision Making | Matthew Confer | TEDxOakLawn* [https://youtu.be/d7Jnmi2BkS8](https://youtu.be/d7Jnmi2BkS8)
+- MinuteVideos, *Groupthink – A short introduction*, [https://youtu.be/CWEvJciU0Zc](https://youtu.be/CWEvJciU0Zc)
+- Practical Psychology, *What is Social Loafing? (Definition + Examples)*, [https://youtu.be/BpaChja09lc](https://youtu.be/BpaChja09lc)
 
 ---
 
