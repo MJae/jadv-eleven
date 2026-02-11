@@ -168,6 +168,7 @@ table {
 table td,
 table th {
 	padding-right: 1em;
+	border: 1px solid black;
 }
 
 pre,

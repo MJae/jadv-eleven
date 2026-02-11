@@ -46,3 +46,6 @@ const eleventyNavigation = {
 - The deadly irony of gunpowder - Eric Rosado, [https://youtu.be/mqHVRgCkCDE](https://youtu.be/mqHVRgCkCDE)
 - Firearm Basics: Types of Bullets, [https://youtu.be/aE_w02SdjqI](https://youtu.be/aE_w02SdjqI)
 - Firearm Basics: Cartridge Case Material, [https://youtu.be/iPhei-JvKus](https://youtu.be/iPhei-JvKus)
+
+---
+
